@@ -1,1 +1,2 @@
-added text
+Boring text document
+this is a slight bit of text that has been added to make this text doc a little less boring
